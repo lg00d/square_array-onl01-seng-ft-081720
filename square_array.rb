@@ -1,5 +1,5 @@
 def square_array(array)
- res ult = []
+ result = []
  number = (2,4,6)
 array.each do |number|
  
